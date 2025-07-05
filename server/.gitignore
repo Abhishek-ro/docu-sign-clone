@@ -1,0 +1,14 @@
+# Ignore dependencies
+node_modules/
+my-app/node_modules/
+server/node_modules/
+
+# Ignore builds
+dist/
+build/
+.next/
+
+# Ignore environment and system files
+.env
+.vscode/
+.DS_Store
